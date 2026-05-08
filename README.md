@@ -2,6 +2,11 @@
 
 AIがゲームプレイを認識するためのゲームエンジン兼ひな形
 
+<img width="618" height="948" alt="image" src="https://github.com/user-attachments/assets/de91b5c5-26b2-4162-889c-27fa12678b05" />
+<img width="602" height="804" alt="image" src="https://github.com/user-attachments/assets/5a01e401-30c4-4d86-a331-efd0c976a62c" />
+<img width="596" height="819" alt="image" src="https://github.com/user-attachments/assets/582a5ab7-5804-498b-aa60-9249acb9b603" />
+<img width="600" height="862" alt="image" src="https://github.com/user-attachments/assets/7405aa6b-270c-4133-9d82-22eaf4ca4de7" />
+
 ## 目的
 
 - AIとゲームを「共著する」のは永遠の課題である。
