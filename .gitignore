@@ -1,0 +1,4 @@
+node_modules
+.claude
+game-state.json
+game.yaml

@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "unpack": "node unpack.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}
